@@ -1,0 +1,1801 @@
+genres,year,count
+Action,1916,0
+Action,1925,0
+Action,1927,0
+Action,1929,0
+Action,1930,1
+Action,1932,0
+Action,1933,0
+Action,1934,0
+Action,1935,0
+Action,1936,1
+Action,1937,0
+Action,1938,0
+Action,1939,0
+Action,1940,0
+Action,1941,0
+Action,1942,0
+Action,1944,0
+Action,1945,0
+Action,1946,0
+Action,1947,1
+Action,1948,0
+Action,1949,1
+Action,1950,1
+Action,1951,0
+Action,1952,1
+Action,1953,0
+Action,1954,1
+Action,1955,0
+Action,1956,1
+Action,1957,0
+Action,1958,0
+Action,1959,0
+Action,1960,0
+Action,1961,1
+Action,1962,2
+Action,1963,4
+Action,1964,2
+Action,1965,1
+Action,1966,1
+Action,1967,2
+Action,1968,0
+Action,1969,4
+Action,1970,4
+Action,1971,4
+Action,1972,1
+Action,1973,2
+Action,1974,1
+Action,1975,1
+Action,1976,2
+Action,1977,6
+Action,1978,5
+Action,1979,7
+Action,1980,5
+Action,1981,9
+Action,1982,8
+Action,1983,7
+Action,1984,12
+Action,1985,10
+Action,1986,7
+Action,1987,8
+Action,1988,7
+Action,1989,11
+Action,1990,8
+Action,1991,11
+Action,1992,9
+Action,1993,17
+Action,1994,21
+Action,1995,25
+Action,1996,22
+Action,1997,37
+Action,1998,25
+Action,1999,25
+Action,2000,40
+Action,2001,53
+Action,2002,52
+Action,2003,42
+Action,2004,41
+Action,2005,48
+Action,2006,50
+Action,2007,44
+Action,2008,46
+Action,2009,51
+Action,2010,49
+Action,2011,58
+Action,2012,43
+Action,2013,56
+Action,2014,54
+Action,2015,46
+Action,2016,39
+Action,2017,0
+Adventure,1916,0
+Adventure,1925,0
+Adventure,1927,0
+Adventure,1929,0
+Adventure,1930,0
+Adventure,1932,0
+Adventure,1933,0
+Adventure,1934,0
+Adventure,1935,0
+Adventure,1936,1
+Adventure,1937,1
+Adventure,1938,0
+Adventure,1939,1
+Adventure,1940,1
+Adventure,1941,0
+Adventure,1942,0
+Adventure,1944,0
+Adventure,1945,0
+Adventure,1946,0
+Adventure,1947,0
+Adventure,1948,0
+Adventure,1949,0
+Adventure,1950,0
+Adventure,1951,0
+Adventure,1952,0
+Adventure,1953,1
+Adventure,1954,1
+Adventure,1955,0
+Adventure,1956,1
+Adventure,1957,0
+Adventure,1958,0
+Adventure,1959,0
+Adventure,1960,0
+Adventure,1961,0
+Adventure,1962,2
+Adventure,1963,5
+Adventure,1964,1
+Adventure,1965,1
+Adventure,1966,1
+Adventure,1967,1
+Adventure,1968,1
+Adventure,1969,2
+Adventure,1970,3
+Adventure,1971,1
+Adventure,1972,2
+Adventure,1973,1
+Adventure,1974,2
+Adventure,1975,2
+Adventure,1976,2
+Adventure,1977,5
+Adventure,1978,4
+Adventure,1979,7
+Adventure,1980,3
+Adventure,1981,10
+Adventure,1982,6
+Adventure,1983,7
+Adventure,1984,7
+Adventure,1985,10
+Adventure,1986,7
+Adventure,1987,9
+Adventure,1988,6
+Adventure,1989,10
+Adventure,1990,8
+Adventure,1991,10
+Adventure,1992,5
+Adventure,1993,13
+Adventure,1994,9
+Adventure,1995,11
+Adventure,1996,14
+Adventure,1997,23
+Adventure,1998,21
+Adventure,1999,13
+Adventure,2000,24
+Adventure,2001,27
+Adventure,2002,40
+Adventure,2003,28
+Adventure,2004,32
+Adventure,2005,37
+Adventure,2006,34
+Adventure,2007,25
+Adventure,2008,37
+Adventure,2009,36
+Adventure,2010,30
+Adventure,2011,32
+Adventure,2012,25
+Adventure,2013,36
+Adventure,2014,37
+Adventure,2015,35
+Adventure,2016,23
+Adventure,2017,0
+Animation,1916,0
+Animation,1925,0
+Animation,1927,0
+Animation,1929,0
+Animation,1930,0
+Animation,1932,0
+Animation,1933,0
+Animation,1934,0
+Animation,1935,0
+Animation,1936,0
+Animation,1937,1
+Animation,1938,0
+Animation,1939,0
+Animation,1940,2
+Animation,1941,0
+Animation,1942,1
+Animation,1944,0
+Animation,1945,0
+Animation,1946,0
+Animation,1947,0
+Animation,1948,0
+Animation,1949,0
+Animation,1950,0
+Animation,1951,0
+Animation,1952,0
+Animation,1953,0
+Animation,1954,0
+Animation,1955,0
+Animation,1956,0
+Animation,1957,0
+Animation,1958,0
+Animation,1959,0
+Animation,1960,0
+Animation,1961,0
+Animation,1962,0
+Animation,1963,0
+Animation,1964,0
+Animation,1965,1
+Animation,1966,0
+Animation,1967,0
+Animation,1968,0
+Animation,1969,0
+Animation,1970,0
+Animation,1971,0
+Animation,1972,0
+Animation,1973,0
+Animation,1974,0
+Animation,1975,0
+Animation,1976,0
+Animation,1977,0
+Animation,1978,0
+Animation,1979,0
+Animation,1980,0
+Animation,1981,1
+Animation,1982,0
+Animation,1983,0
+Animation,1984,0
+Animation,1985,0
+Animation,1986,0
+Animation,1987,1
+Animation,1988,2
+Animation,1989,0
+Animation,1990,0
+Animation,1991,0
+Animation,1992,1
+Animation,1993,1
+Animation,1994,1
+Animation,1995,2
+Animation,1996,4
+Animation,1997,3
+Animation,1998,8
+Animation,1999,6
+Animation,2000,11
+Animation,2001,9
+Animation,2002,9
+Animation,2003,6
+Animation,2004,11
+Animation,2005,9
+Animation,2006,15
+Animation,2007,10
+Animation,2008,13
+Animation,2009,15
+Animation,2010,13
+Animation,2011,17
+Animation,2012,13
+Animation,2013,17
+Animation,2014,14
+Animation,2015,13
+Animation,2016,4
+Animation,2017,0
+Comedy,1916,0
+Comedy,1925,0
+Comedy,1927,0
+Comedy,1929,0
+Comedy,1930,0
+Comedy,1932,0
+Comedy,1933,2
+Comedy,1934,1
+Comedy,1935,1
+Comedy,1936,1
+Comedy,1937,0
+Comedy,1938,1
+Comedy,1939,1
+Comedy,1940,0
+Comedy,1941,0
+Comedy,1942,0
+Comedy,1944,1
+Comedy,1945,0
+Comedy,1946,0
+Comedy,1947,0
+Comedy,1948,0
+Comedy,1949,0
+Comedy,1950,1
+Comedy,1951,0
+Comedy,1952,1
+Comedy,1953,0
+Comedy,1954,0
+Comedy,1955,1
+Comedy,1956,0
+Comedy,1957,0
+Comedy,1958,0
+Comedy,1959,1
+Comedy,1960,1
+Comedy,1961,1
+Comedy,1962,0
+Comedy,1963,3
+Comedy,1964,3
+Comedy,1965,1
+Comedy,1966,2
+Comedy,1967,0
+Comedy,1968,1
+Comedy,1969,3
+Comedy,1970,4
+Comedy,1971,1
+Comedy,1972,3
+Comedy,1973,3
+Comedy,1974,3
+Comedy,1975,3
+Comedy,1976,3
+Comedy,1977,3
+Comedy,1978,1
+Comedy,1979,2
+Comedy,1980,6
+Comedy,1981,8
+Comedy,1982,6
+Comedy,1983,5
+Comedy,1984,9
+Comedy,1985,5
+Comedy,1986,8
+Comedy,1987,13
+Comedy,1988,10
+Comedy,1989,12
+Comedy,1990,11
+Comedy,1991,11
+Comedy,1992,12
+Comedy,1993,14
+Comedy,1994,26
+Comedy,1995,23
+Comedy,1996,37
+Comedy,1997,38
+Comedy,1998,61
+Comedy,1999,84
+Comedy,2000,70
+Comedy,2001,85
+Comedy,2002,82
+Comedy,2003,72
+Comedy,2004,82
+Comedy,2005,82
+Comedy,2006,90
+Comedy,2007,67
+Comedy,2008,82
+Comedy,2009,97
+Comedy,2010,87
+Comedy,2011,82
+Comedy,2012,80
+Comedy,2013,71
+Comedy,2014,62
+Comedy,2015,52
+Comedy,2016,26
+Comedy,2017,1
+Crime,1916,0
+Crime,1925,0
+Crime,1927,0
+Crime,1929,0
+Crime,1930,0
+Crime,1932,0
+Crime,1933,0
+Crime,1934,0
+Crime,1935,0
+Crime,1936,0
+Crime,1937,0
+Crime,1938,0
+Crime,1939,0
+Crime,1940,0
+Crime,1941,0
+Crime,1942,0
+Crime,1944,0
+Crime,1945,0
+Crime,1946,0
+Crime,1947,1
+Crime,1948,1
+Crime,1949,0
+Crime,1950,0
+Crime,1951,0
+Crime,1952,1
+Crime,1953,1
+Crime,1954,1
+Crime,1955,0
+Crime,1956,0
+Crime,1957,0
+Crime,1958,0
+Crime,1959,0
+Crime,1960,0
+Crime,1961,1
+Crime,1962,1
+Crime,1963,1
+Crime,1964,0
+Crime,1965,0
+Crime,1966,2
+Crime,1967,2
+Crime,1968,0
+Crime,1969,3
+Crime,1970,0
+Crime,1971,2
+Crime,1972,3
+Crime,1973,2
+Crime,1974,2
+Crime,1975,0
+Crime,1976,2
+Crime,1977,0
+Crime,1978,0
+Crime,1979,2
+Crime,1980,1
+Crime,1981,3
+Crime,1982,2
+Crime,1983,3
+Crime,1984,6
+Crime,1985,3
+Crime,1986,4
+Crime,1987,3
+Crime,1988,4
+Crime,1989,3
+Crime,1990,4
+Crime,1991,6
+Crime,1992,11
+Crime,1993,8
+Crime,1994,13
+Crime,1995,20
+Crime,1996,17
+Crime,1997,24
+Crime,1998,20
+Crime,1999,24
+Crime,2000,29
+Crime,2001,34
+Crime,2002,34
+Crime,2003,32
+Crime,2004,23
+Crime,2005,29
+Crime,2006,34
+Crime,2007,28
+Crime,2008,33
+Crime,2009,32
+Crime,2010,30
+Crime,2011,24
+Crime,2012,27
+Crime,2013,37
+Crime,2014,27
+Crime,2015,26
+Crime,2016,10
+Crime,2017,0
+Documentary,1916,0
+Documentary,1925,0
+Documentary,1927,0
+Documentary,1929,0
+Documentary,1930,0
+Documentary,1932,0
+Documentary,1933,0
+Documentary,1934,0
+Documentary,1935,0
+Documentary,1936,0
+Documentary,1937,0
+Documentary,1938,0
+Documentary,1939,0
+Documentary,1940,0
+Documentary,1941,0
+Documentary,1942,0
+Documentary,1944,0
+Documentary,1945,0
+Documentary,1946,0
+Documentary,1947,0
+Documentary,1948,0
+Documentary,1949,0
+Documentary,1950,0
+Documentary,1951,0
+Documentary,1952,0
+Documentary,1953,0
+Documentary,1954,0
+Documentary,1955,0
+Documentary,1956,0
+Documentary,1957,0
+Documentary,1958,0
+Documentary,1959,0
+Documentary,1960,0
+Documentary,1961,0
+Documentary,1962,0
+Documentary,1963,0
+Documentary,1964,0
+Documentary,1965,0
+Documentary,1966,0
+Documentary,1967,0
+Documentary,1968,0
+Documentary,1969,0
+Documentary,1970,1
+Documentary,1971,0
+Documentary,1972,0
+Documentary,1973,0
+Documentary,1974,0
+Documentary,1975,0
+Documentary,1976,0
+Documentary,1977,0
+Documentary,1978,1
+Documentary,1979,0
+Documentary,1980,0
+Documentary,1981,0
+Documentary,1982,0
+Documentary,1983,0
+Documentary,1984,0
+Documentary,1985,0
+Documentary,1986,0
+Documentary,1987,0
+Documentary,1988,0
+Documentary,1989,1
+Documentary,1990,0
+Documentary,1991,0
+Documentary,1992,0
+Documentary,1993,0
+Documentary,1994,1
+Documentary,1995,0
+Documentary,1996,0
+Documentary,1997,1
+Documentary,1998,0
+Documentary,1999,1
+Documentary,2000,1
+Documentary,2001,3
+Documentary,2002,3
+Documentary,2003,5
+Documentary,2004,5
+Documentary,2005,10
+Documentary,2006,10
+Documentary,2007,7
+Documentary,2008,8
+Documentary,2009,5
+Documentary,2010,7
+Documentary,2011,7
+Documentary,2012,9
+Documentary,2013,10
+Documentary,2014,6
+Documentary,2015,6
+Documentary,2016,0
+Documentary,2017,0
+Drama,1916,1
+Drama,1925,1
+Drama,1927,1
+Drama,1929,2
+Drama,1930,1
+Drama,1932,1
+Drama,1933,0
+Drama,1934,0
+Drama,1935,0
+Drama,1936,2
+Drama,1937,1
+Drama,1938,1
+Drama,1939,2
+Drama,1940,3
+Drama,1941,1
+Drama,1942,2
+Drama,1944,1
+Drama,1945,3
+Drama,1946,2
+Drama,1947,3
+Drama,1948,0
+Drama,1949,1
+Drama,1950,0
+Drama,1951,2
+Drama,1952,2
+Drama,1953,3
+Drama,1954,4
+Drama,1955,1
+Drama,1956,3
+Drama,1957,2
+Drama,1958,1
+Drama,1959,2
+Drama,1960,3
+Drama,1961,5
+Drama,1962,4
+Drama,1963,4
+Drama,1964,6
+Drama,1965,5
+Drama,1966,2
+Drama,1967,2
+Drama,1968,4
+Drama,1969,7
+Drama,1970,8
+Drama,1971,3
+Drama,1972,6
+Drama,1973,4
+Drama,1974,3
+Drama,1975,2
+Drama,1976,4
+Drama,1977,8
+Drama,1978,5
+Drama,1979,6
+Drama,1980,9
+Drama,1981,10
+Drama,1982,8
+Drama,1983,10
+Drama,1984,10
+Drama,1985,10
+Drama,1986,9
+Drama,1987,11
+Drama,1988,12
+Drama,1989,11
+Drama,1990,10
+Drama,1991,13
+Drama,1992,13
+Drama,1993,26
+Drama,1994,20
+Drama,1995,37
+Drama,1996,57
+Drama,1997,53
+Drama,1998,76
+Drama,1999,91
+Drama,2000,81
+Drama,2001,75
+Drama,2002,113
+Drama,2003,72
+Drama,2004,101
+Drama,2005,115
+Drama,2006,133
+Drama,2007,97
+Drama,2008,106
+Drama,2009,122
+Drama,2010,115
+Drama,2011,99
+Drama,2012,79
+Drama,2013,110
+Drama,2014,110
+Drama,2015,94
+Drama,2016,37
+Drama,2017,1
+Family,1916,0
+Family,1925,0
+Family,1927,0
+Family,1929,0
+Family,1930,0
+Family,1932,0
+Family,1933,0
+Family,1934,0
+Family,1935,0
+Family,1936,0
+Family,1937,1
+Family,1938,0
+Family,1939,1
+Family,1940,3
+Family,1941,0
+Family,1942,1
+Family,1944,0
+Family,1945,0
+Family,1946,1
+Family,1947,0
+Family,1948,0
+Family,1949,0
+Family,1950,0
+Family,1951,0
+Family,1952,0
+Family,1953,0
+Family,1954,0
+Family,1955,0
+Family,1956,0
+Family,1957,0
+Family,1958,0
+Family,1959,0
+Family,1960,0
+Family,1961,0
+Family,1962,0
+Family,1963,0
+Family,1964,2
+Family,1965,2
+Family,1966,1
+Family,1967,0
+Family,1968,2
+Family,1969,0
+Family,1970,0
+Family,1971,1
+Family,1972,0
+Family,1973,0
+Family,1974,1
+Family,1975,0
+Family,1976,1
+Family,1977,0
+Family,1978,1
+Family,1979,3
+Family,1980,0
+Family,1981,2
+Family,1982,2
+Family,1983,1
+Family,1984,2
+Family,1985,4
+Family,1986,0
+Family,1987,4
+Family,1988,2
+Family,1989,2
+Family,1990,4
+Family,1991,5
+Family,1992,4
+Family,1993,8
+Family,1994,6
+Family,1995,6
+Family,1996,8
+Family,1997,9
+Family,1998,14
+Family,1999,15
+Family,2000,20
+Family,2001,17
+Family,2002,27
+Family,2003,18
+Family,2004,23
+Family,2005,31
+Family,2006,35
+Family,2007,20
+Family,2008,29
+Family,2009,28
+Family,2010,29
+Family,2011,28
+Family,2012,17
+Family,2013,22
+Family,2014,23
+Family,2015,17
+Family,2016,9
+Family,2017,1
+Fantasy,1916,0
+Fantasy,1925,0
+Fantasy,1927,0
+Fantasy,1929,0
+Fantasy,1930,0
+Fantasy,1932,0
+Fantasy,1933,0
+Fantasy,1934,0
+Fantasy,1935,0
+Fantasy,1936,0
+Fantasy,1937,1
+Fantasy,1938,0
+Fantasy,1939,1
+Fantasy,1940,1
+Fantasy,1941,0
+Fantasy,1942,0
+Fantasy,1944,0
+Fantasy,1945,0
+Fantasy,1946,1
+Fantasy,1947,0
+Fantasy,1948,0
+Fantasy,1949,0
+Fantasy,1950,0
+Fantasy,1951,0
+Fantasy,1952,0
+Fantasy,1953,0
+Fantasy,1954,0
+Fantasy,1955,0
+Fantasy,1956,0
+Fantasy,1957,0
+Fantasy,1958,0
+Fantasy,1959,0
+Fantasy,1960,0
+Fantasy,1961,0
+Fantasy,1962,0
+Fantasy,1963,0
+Fantasy,1964,1
+Fantasy,1965,0
+Fantasy,1966,0
+Fantasy,1967,0
+Fantasy,1968,0
+Fantasy,1969,0
+Fantasy,1970,0
+Fantasy,1971,1
+Fantasy,1972,0
+Fantasy,1973,0
+Fantasy,1974,0
+Fantasy,1975,1
+Fantasy,1976,0
+Fantasy,1977,2
+Fantasy,1978,2
+Fantasy,1979,0
+Fantasy,1980,2
+Fantasy,1981,2
+Fantasy,1982,5
+Fantasy,1983,3
+Fantasy,1984,6
+Fantasy,1985,4
+Fantasy,1986,4
+Fantasy,1987,5
+Fantasy,1988,3
+Fantasy,1989,2
+Fantasy,1990,3
+Fantasy,1991,4
+Fantasy,1992,6
+Fantasy,1993,10
+Fantasy,1994,9
+Fantasy,1995,8
+Fantasy,1996,10
+Fantasy,1997,10
+Fantasy,1998,13
+Fantasy,1999,11
+Fantasy,2000,11
+Fantasy,2001,16
+Fantasy,2002,14
+Fantasy,2003,15
+Fantasy,2004,16
+Fantasy,2005,20
+Fantasy,2006,25
+Fantasy,2007,19
+Fantasy,2008,20
+Fantasy,2009,22
+Fantasy,2010,21
+Fantasy,2011,15
+Fantasy,2012,19
+Fantasy,2013,21
+Fantasy,2014,16
+Fantasy,2015,10
+Fantasy,2016,13
+Fantasy,2017,0
+Foreign,1916,0
+Foreign,1925,0
+Foreign,1927,0
+Foreign,1929,0
+Foreign,1930,0
+Foreign,1932,0
+Foreign,1933,0
+Foreign,1934,0
+Foreign,1935,0
+Foreign,1936,0
+Foreign,1937,0
+Foreign,1938,0
+Foreign,1939,0
+Foreign,1940,0
+Foreign,1941,0
+Foreign,1942,0
+Foreign,1944,0
+Foreign,1945,0
+Foreign,1946,0
+Foreign,1947,0
+Foreign,1948,0
+Foreign,1949,0
+Foreign,1950,0
+Foreign,1951,0
+Foreign,1952,0
+Foreign,1953,0
+Foreign,1954,0
+Foreign,1955,0
+Foreign,1956,0
+Foreign,1957,0
+Foreign,1958,0
+Foreign,1959,0
+Foreign,1960,0
+Foreign,1961,0
+Foreign,1962,0
+Foreign,1963,0
+Foreign,1964,0
+Foreign,1965,0
+Foreign,1966,0
+Foreign,1967,0
+Foreign,1968,0
+Foreign,1969,1
+Foreign,1970,0
+Foreign,1971,0
+Foreign,1972,0
+Foreign,1973,0
+Foreign,1974,0
+Foreign,1975,0
+Foreign,1976,0
+Foreign,1977,0
+Foreign,1978,0
+Foreign,1979,0
+Foreign,1980,0
+Foreign,1981,0
+Foreign,1982,0
+Foreign,1983,0
+Foreign,1984,0
+Foreign,1985,0
+Foreign,1986,0
+Foreign,1987,0
+Foreign,1988,0
+Foreign,1989,0
+Foreign,1990,0
+Foreign,1991,0
+Foreign,1992,0
+Foreign,1993,0
+Foreign,1994,0
+Foreign,1995,0
+Foreign,1996,0
+Foreign,1997,2
+Foreign,1998,1
+Foreign,1999,3
+Foreign,2000,3
+Foreign,2001,3
+Foreign,2002,0
+Foreign,2003,2
+Foreign,2004,2
+Foreign,2005,3
+Foreign,2006,1
+Foreign,2007,3
+Foreign,2008,2
+Foreign,2009,4
+Foreign,2010,1
+Foreign,2011,2
+Foreign,2012,1
+Foreign,2013,0
+Foreign,2014,0
+Foreign,2015,0
+Foreign,2016,0
+Foreign,2017,0
+History,1916,0
+History,1925,0
+History,1927,0
+History,1929,0
+History,1930,1
+History,1932,0
+History,1933,0
+History,1934,0
+History,1935,0
+History,1936,0
+History,1937,0
+History,1938,0
+History,1939,0
+History,1940,0
+History,1941,0
+History,1942,0
+History,1944,0
+History,1945,0
+History,1946,1
+History,1947,0
+History,1948,0
+History,1949,1
+History,1950,0
+History,1951,1
+History,1952,0
+History,1953,0
+History,1954,1
+History,1955,0
+History,1956,0
+History,1957,1
+History,1958,0
+History,1959,1
+History,1960,0
+History,1961,1
+History,1962,2
+History,1963,4
+History,1964,1
+History,1965,1
+History,1966,1
+History,1967,1
+History,1968,0
+History,1969,1
+History,1970,5
+History,1971,0
+History,1972,1
+History,1973,0
+History,1974,0
+History,1975,0
+History,1976,0
+History,1977,1
+History,1978,0
+History,1979,0
+History,1980,3
+History,1981,5
+History,1982,1
+History,1983,1
+History,1984,3
+History,1985,0
+History,1986,0
+History,1987,2
+History,1988,0
+History,1989,2
+History,1990,0
+History,1991,1
+History,1992,3
+History,1993,3
+History,1994,1
+History,1995,3
+History,1996,4
+History,1997,3
+History,1998,4
+History,1999,5
+History,2000,1
+History,2001,5
+History,2002,9
+History,2003,7
+History,2004,6
+History,2005,11
+History,2006,8
+History,2007,9
+History,2008,13
+History,2009,8
+History,2010,8
+History,2011,8
+History,2012,4
+History,2013,8
+History,2014,7
+History,2015,9
+History,2016,6
+History,2017,0
+Horror,1916,0
+Horror,1925,0
+Horror,1927,0
+Horror,1929,0
+Horror,1930,0
+Horror,1932,0
+Horror,1933,0
+Horror,1934,0
+Horror,1935,0
+Horror,1936,0
+Horror,1937,0
+Horror,1938,0
+Horror,1939,0
+Horror,1940,0
+Horror,1941,0
+Horror,1942,0
+Horror,1944,0
+Horror,1945,0
+Horror,1946,0
+Horror,1947,0
+Horror,1948,0
+Horror,1949,0
+Horror,1950,0
+Horror,1951,0
+Horror,1952,0
+Horror,1953,1
+Horror,1954,0
+Horror,1955,0
+Horror,1956,0
+Horror,1957,0
+Horror,1958,0
+Horror,1959,0
+Horror,1960,1
+Horror,1961,0
+Horror,1962,1
+Horror,1963,0
+Horror,1964,0
+Horror,1965,0
+Horror,1966,0
+Horror,1967,1
+Horror,1968,2
+Horror,1969,0
+Horror,1970,0
+Horror,1971,1
+Horror,1972,1
+Horror,1973,1
+Horror,1974,1
+Horror,1975,1
+Horror,1976,1
+Horror,1977,3
+Horror,1978,4
+Horror,1979,2
+Horror,1980,3
+Horror,1981,5
+Horror,1982,8
+Horror,1983,3
+Horror,1984,7
+Horror,1985,5
+Horror,1986,7
+Horror,1987,6
+Horror,1988,9
+Horror,1989,6
+Horror,1990,7
+Horror,1991,2
+Horror,1992,6
+Horror,1993,3
+Horror,1994,3
+Horror,1995,6
+Horror,1996,6
+Horror,1997,10
+Horror,1998,9
+Horror,1999,15
+Horror,2000,13
+Horror,2001,11
+Horror,2002,16
+Horror,2003,12
+Horror,2004,14
+Horror,2005,25
+Horror,2006,20
+Horror,2007,27
+Horror,2008,21
+Horror,2009,30
+Horror,2010,27
+Horror,2011,24
+Horror,2012,33
+Horror,2013,25
+Horror,2014,21
+Horror,2015,33
+Horror,2016,20
+Horror,2017,0
+Music,1916,0
+Music,1925,0
+Music,1927,0
+Music,1929,1
+Music,1930,0
+Music,1932,0
+Music,1933,1
+Music,1934,0
+Music,1935,1
+Music,1936,0
+Music,1937,0
+Music,1938,1
+Music,1939,0
+Music,1940,1
+Music,1941,0
+Music,1942,0
+Music,1944,1
+Music,1945,1
+Music,1946,0
+Music,1947,0
+Music,1948,1
+Music,1949,0
+Music,1950,1
+Music,1951,1
+Music,1952,1
+Music,1953,0
+Music,1954,0
+Music,1955,0
+Music,1956,1
+Music,1957,0
+Music,1958,0
+Music,1959,0
+Music,1960,0
+Music,1961,1
+Music,1962,0
+Music,1963,0
+Music,1964,2
+Music,1965,1
+Music,1966,1
+Music,1967,0
+Music,1968,1
+Music,1969,2
+Music,1970,2
+Music,1971,0
+Music,1972,1
+Music,1973,0
+Music,1974,0
+Music,1975,0
+Music,1976,0
+Music,1977,2
+Music,1978,2
+Music,1979,2
+Music,1980,3
+Music,1981,0
+Music,1982,0
+Music,1983,2
+Music,1984,3
+Music,1985,1
+Music,1986,1
+Music,1987,2
+Music,1988,0
+Music,1989,0
+Music,1990,0
+Music,1991,1
+Music,1992,2
+Music,1993,2
+Music,1994,0
+Music,1995,1
+Music,1996,4
+Music,1997,2
+Music,1998,4
+Music,1999,4
+Music,2000,7
+Music,2001,6
+Music,2002,5
+Music,2003,7
+Music,2004,10
+Music,2005,6
+Music,2006,7
+Music,2007,11
+Music,2008,10
+Music,2009,11
+Music,2010,2
+Music,2011,5
+Music,2012,7
+Music,2013,12
+Music,2014,9
+Music,2015,8
+Music,2016,1
+Music,2017,0
+Mystery,1916,0
+Mystery,1925,0
+Mystery,1927,0
+Mystery,1929,0
+Mystery,1930,0
+Mystery,1932,0
+Mystery,1933,0
+Mystery,1934,0
+Mystery,1935,0
+Mystery,1936,0
+Mystery,1937,0
+Mystery,1938,0
+Mystery,1939,0
+Mystery,1940,1
+Mystery,1941,0
+Mystery,1942,0
+Mystery,1944,0
+Mystery,1945,1
+Mystery,1946,0
+Mystery,1947,1
+Mystery,1948,1
+Mystery,1949,0
+Mystery,1950,0
+Mystery,1951,0
+Mystery,1952,0
+Mystery,1953,0
+Mystery,1954,0
+Mystery,1955,1
+Mystery,1956,0
+Mystery,1957,0
+Mystery,1958,0
+Mystery,1959,0
+Mystery,1960,0
+Mystery,1961,0
+Mystery,1962,0
+Mystery,1963,0
+Mystery,1964,0
+Mystery,1965,0
+Mystery,1966,2
+Mystery,1967,1
+Mystery,1968,2
+Mystery,1969,1
+Mystery,1970,1
+Mystery,1971,0
+Mystery,1972,2
+Mystery,1973,0
+Mystery,1974,1
+Mystery,1975,0
+Mystery,1976,0
+Mystery,1977,0
+Mystery,1978,0
+Mystery,1979,1
+Mystery,1980,1
+Mystery,1981,2
+Mystery,1982,2
+Mystery,1983,1
+Mystery,1984,1
+Mystery,1985,1
+Mystery,1986,2
+Mystery,1987,0
+Mystery,1988,0
+Mystery,1989,1
+Mystery,1990,2
+Mystery,1991,0
+Mystery,1992,1
+Mystery,1993,3
+Mystery,1994,5
+Mystery,1995,4
+Mystery,1996,6
+Mystery,1997,18
+Mystery,1998,12
+Mystery,1999,20
+Mystery,2000,8
+Mystery,2001,19
+Mystery,2002,19
+Mystery,2003,15
+Mystery,2004,14
+Mystery,2005,13
+Mystery,2006,15
+Mystery,2007,17
+Mystery,2008,15
+Mystery,2009,28
+Mystery,2010,17
+Mystery,2011,16
+Mystery,2012,8
+Mystery,2013,5
+Mystery,2014,15
+Mystery,2015,20
+Mystery,2016,6
+Mystery,2017,0
+Romance,1916,0
+Romance,1925,1
+Romance,1927,0
+Romance,1929,2
+Romance,1930,0
+Romance,1932,1
+Romance,1933,1
+Romance,1934,1
+Romance,1935,1
+Romance,1936,0
+Romance,1937,1
+Romance,1938,2
+Romance,1939,1
+Romance,1940,1
+Romance,1941,0
+Romance,1942,1
+Romance,1944,1
+Romance,1945,1
+Romance,1946,1
+Romance,1947,2
+Romance,1948,1
+Romance,1949,0
+Romance,1950,1
+Romance,1951,2
+Romance,1952,2
+Romance,1953,1
+Romance,1954,0
+Romance,1955,0
+Romance,1956,1
+Romance,1957,0
+Romance,1958,1
+Romance,1959,2
+Romance,1960,1
+Romance,1961,1
+Romance,1962,1
+Romance,1963,3
+Romance,1964,2
+Romance,1965,2
+Romance,1966,0
+Romance,1967,0
+Romance,1968,1
+Romance,1969,2
+Romance,1970,1
+Romance,1971,3
+Romance,1972,0
+Romance,1973,1
+Romance,1974,2
+Romance,1975,1
+Romance,1976,2
+Romance,1977,2
+Romance,1978,3
+Romance,1979,1
+Romance,1980,2
+Romance,1981,4
+Romance,1982,2
+Romance,1983,5
+Romance,1984,3
+Romance,1985,6
+Romance,1986,6
+Romance,1987,3
+Romance,1988,3
+Romance,1989,3
+Romance,1990,5
+Romance,1991,4
+Romance,1992,7
+Romance,1993,11
+Romance,1994,9
+Romance,1995,17
+Romance,1996,21
+Romance,1997,21
+Romance,1998,31
+Romance,1999,42
+Romance,2000,39
+Romance,2001,52
+Romance,2002,46
+Romance,2003,27
+Romance,2004,45
+Romance,2005,49
+Romance,2006,46
+Romance,2007,37
+Romance,2008,38
+Romance,2009,57
+Romance,2010,45
+Romance,2011,30
+Romance,2012,39
+Romance,2013,25
+Romance,2014,24
+Romance,2015,23
+Romance,2016,9
+Romance,2017,0
+Science Fiction,1916,0
+Science Fiction,1925,0
+Science Fiction,1927,1
+Science Fiction,1929,0
+Science Fiction,1930,0
+Science Fiction,1932,0
+Science Fiction,1933,0
+Science Fiction,1934,0
+Science Fiction,1935,0
+Science Fiction,1936,0
+Science Fiction,1937,0
+Science Fiction,1938,0
+Science Fiction,1939,0
+Science Fiction,1940,0
+Science Fiction,1941,0
+Science Fiction,1942,0
+Science Fiction,1944,0
+Science Fiction,1945,0
+Science Fiction,1946,0
+Science Fiction,1947,0
+Science Fiction,1948,0
+Science Fiction,1949,0
+Science Fiction,1950,0
+Science Fiction,1951,0
+Science Fiction,1952,0
+Science Fiction,1953,1
+Science Fiction,1954,1
+Science Fiction,1955,0
+Science Fiction,1956,0
+Science Fiction,1957,0
+Science Fiction,1958,0
+Science Fiction,1959,0
+Science Fiction,1960,0
+Science Fiction,1961,0
+Science Fiction,1962,1
+Science Fiction,1963,0
+Science Fiction,1964,0
+Science Fiction,1965,0
+Science Fiction,1966,1
+Science Fiction,1967,0
+Science Fiction,1968,3
+Science Fiction,1969,0
+Science Fiction,1970,1
+Science Fiction,1971,2
+Science Fiction,1972,3
+Science Fiction,1973,2
+Science Fiction,1974,1
+Science Fiction,1975,1
+Science Fiction,1976,1
+Science Fiction,1977,6
+Science Fiction,1978,3
+Science Fiction,1979,7
+Science Fiction,1980,5
+Science Fiction,1981,4
+Science Fiction,1982,8
+Science Fiction,1983,6
+Science Fiction,1984,8
+Science Fiction,1985,6
+Science Fiction,1986,5
+Science Fiction,1987,4
+Science Fiction,1988,4
+Science Fiction,1989,5
+Science Fiction,1990,5
+Science Fiction,1991,5
+Science Fiction,1992,5
+Science Fiction,1993,7
+Science Fiction,1994,4
+Science Fiction,1995,5
+Science Fiction,1996,9
+Science Fiction,1997,19
+Science Fiction,1998,13
+Science Fiction,1999,20
+Science Fiction,2000,18
+Science Fiction,2001,19
+Science Fiction,2002,18
+Science Fiction,2003,15
+Science Fiction,2004,20
+Science Fiction,2005,14
+Science Fiction,2006,18
+Science Fiction,2007,13
+Science Fiction,2008,27
+Science Fiction,2009,32
+Science Fiction,2010,19
+Science Fiction,2011,26
+Science Fiction,2012,22
+Science Fiction,2013,27
+Science Fiction,2014,26
+Science Fiction,2015,28
+Science Fiction,2016,11
+Science Fiction,2017,0
+TV Movie,1916,0
+TV Movie,1925,0
+TV Movie,1927,0
+TV Movie,1929,0
+TV Movie,1930,0
+TV Movie,1932,0
+TV Movie,1933,0
+TV Movie,1934,0
+TV Movie,1935,0
+TV Movie,1936,0
+TV Movie,1937,0
+TV Movie,1938,0
+TV Movie,1939,0
+TV Movie,1940,0
+TV Movie,1941,0
+TV Movie,1942,0
+TV Movie,1944,0
+TV Movie,1945,0
+TV Movie,1946,0
+TV Movie,1947,0
+TV Movie,1948,0
+TV Movie,1949,0
+TV Movie,1950,0
+TV Movie,1951,0
+TV Movie,1952,0
+TV Movie,1953,0
+TV Movie,1954,0
+TV Movie,1955,0
+TV Movie,1956,0
+TV Movie,1957,0
+TV Movie,1958,0
+TV Movie,1959,0
+TV Movie,1960,0
+TV Movie,1961,0
+TV Movie,1962,0
+TV Movie,1963,0
+TV Movie,1964,0
+TV Movie,1965,1
+TV Movie,1966,0
+TV Movie,1967,0
+TV Movie,1968,0
+TV Movie,1969,0
+TV Movie,1970,0
+TV Movie,1971,0
+TV Movie,1972,0
+TV Movie,1973,0
+TV Movie,1974,0
+TV Movie,1975,0
+TV Movie,1976,0
+TV Movie,1977,0
+TV Movie,1978,0
+TV Movie,1979,0
+TV Movie,1980,0
+TV Movie,1981,0
+TV Movie,1982,0
+TV Movie,1983,0
+TV Movie,1984,0
+TV Movie,1985,0
+TV Movie,1986,0
+TV Movie,1987,0
+TV Movie,1988,0
+TV Movie,1989,0
+TV Movie,1990,0
+TV Movie,1991,0
+TV Movie,1992,0
+TV Movie,1993,0
+TV Movie,1994,0
+TV Movie,1995,0
+TV Movie,1996,0
+TV Movie,1997,0
+TV Movie,1998,0
+TV Movie,1999,0
+TV Movie,2000,0
+TV Movie,2001,0
+TV Movie,2002,0
+TV Movie,2003,0
+TV Movie,2004,0
+TV Movie,2005,0
+TV Movie,2006,2
+TV Movie,2007,0
+TV Movie,2008,0
+TV Movie,2009,0
+TV Movie,2010,0
+TV Movie,2011,1
+TV Movie,2012,2
+TV Movie,2013,2
+TV Movie,2014,0
+TV Movie,2015,0
+TV Movie,2016,0
+TV Movie,2017,0
+Thriller,1916,0
+Thriller,1925,0
+Thriller,1927,0
+Thriller,1929,1
+Thriller,1930,0
+Thriller,1932,0
+Thriller,1933,0
+Thriller,1934,0
+Thriller,1935,0
+Thriller,1936,0
+Thriller,1937,0
+Thriller,1938,0
+Thriller,1939,0
+Thriller,1940,0
+Thriller,1941,0
+Thriller,1942,0
+Thriller,1944,0
+Thriller,1945,1
+Thriller,1946,0
+Thriller,1947,0
+Thriller,1948,1
+Thriller,1949,0
+Thriller,1950,0
+Thriller,1951,0
+Thriller,1952,0
+Thriller,1953,1
+Thriller,1954,0
+Thriller,1955,1
+Thriller,1956,0
+Thriller,1957,0
+Thriller,1958,0
+Thriller,1959,0
+Thriller,1960,1
+Thriller,1961,0
+Thriller,1962,1
+Thriller,1963,2
+Thriller,1964,2
+Thriller,1965,2
+Thriller,1966,2
+Thriller,1967,2
+Thriller,1968,0
+Thriller,1969,3
+Thriller,1970,2
+Thriller,1971,3
+Thriller,1972,1
+Thriller,1973,2
+Thriller,1974,1
+Thriller,1975,1
+Thriller,1976,2
+Thriller,1977,4
+Thriller,1978,5
+Thriller,1979,5
+Thriller,1980,3
+Thriller,1981,8
+Thriller,1982,7
+Thriller,1983,8
+Thriller,1984,7
+Thriller,1985,9
+Thriller,1986,3
+Thriller,1987,7
+Thriller,1988,11
+Thriller,1989,8
+Thriller,1990,9
+Thriller,1991,11
+Thriller,1992,10
+Thriller,1993,12
+Thriller,1994,18
+Thriller,1995,24
+Thriller,1996,36
+Thriller,1997,41
+Thriller,1998,25
+Thriller,1999,39
+Thriller,2000,48
+Thriller,2001,53
+Thriller,2002,65
+Thriller,2003,46
+Thriller,2004,47
+Thriller,2005,52
+Thriller,2006,58
+Thriller,2007,53
+Thriller,2008,55
+Thriller,2009,59
+Thriller,2010,56
+Thriller,2011,69
+Thriller,2012,58
+Thriller,2013,53
+Thriller,2014,66
+Thriller,2015,67
+Thriller,2016,27
+Thriller,2017,0
+War,1916,0
+War,1925,1
+War,1927,0
+War,1929,0
+War,1930,0
+War,1932,1
+War,1933,0
+War,1934,0
+War,1935,0
+War,1936,1
+War,1937,0
+War,1938,0
+War,1939,1
+War,1940,0
+War,1941,0
+War,1942,0
+War,1944,1
+War,1945,0
+War,1946,0
+War,1947,0
+War,1948,0
+War,1949,1
+War,1950,0
+War,1951,0
+War,1952,0
+War,1953,1
+War,1954,0
+War,1955,0
+War,1956,0
+War,1957,1
+War,1958,0
+War,1959,1
+War,1960,0
+War,1961,0
+War,1962,2
+War,1963,1
+War,1964,2
+War,1965,2
+War,1966,0
+War,1967,0
+War,1968,0
+War,1969,0
+War,1970,3
+War,1971,0
+War,1972,0
+War,1973,0
+War,1974,0
+War,1975,1
+War,1976,0
+War,1977,2
+War,1978,2
+War,1979,1
+War,1980,0
+War,1981,3
+War,1982,1
+War,1983,0
+War,1984,0
+War,1985,1
+War,1986,2
+War,1987,1
+War,1988,1
+War,1989,3
+War,1990,0
+War,1991,0
+War,1992,1
+War,1993,2
+War,1994,2
+War,1995,3
+War,1996,2
+War,1997,0
+War,1998,4
+War,1999,3
+War,2000,3
+War,2001,6
+War,2002,6
+War,2003,5
+War,2004,6
+War,2005,6
+War,2006,9
+War,2007,2
+War,2008,11
+War,2009,4
+War,2010,6
+War,2011,6
+War,2012,2
+War,2013,3
+War,2014,10
+War,2015,2
+War,2016,3
+War,2017,0
+Western,1916,0
+Western,1925,0
+Western,1927,0
+Western,1929,0
+Western,1930,0
+Western,1932,0
+Western,1933,0
+Western,1934,0
+Western,1935,0
+Western,1936,0
+Western,1937,0
+Western,1938,0
+Western,1939,0
+Western,1940,0
+Western,1941,0
+Western,1942,0
+Western,1944,0
+Western,1945,0
+Western,1946,1
+Western,1947,0
+Western,1948,1
+Western,1949,1
+Western,1950,1
+Western,1951,0
+Western,1952,1
+Western,1953,0
+Western,1954,0
+Western,1955,0
+Western,1956,1
+Western,1957,0
+Western,1958,0
+Western,1959,0
+Western,1960,0
+Western,1961,0
+Western,1962,1
+Western,1963,1
+Western,1964,1
+Western,1965,1
+Western,1966,1
+Western,1967,0
+Western,1968,3
+Western,1969,3
+Western,1970,1
+Western,1971,0
+Western,1972,0
+Western,1973,2
+Western,1974,1
+Western,1975,0
+Western,1976,0
+Western,1977,0
+Western,1978,0
+Western,1979,0
+Western,1980,2
+Western,1981,1
+Western,1982,1
+Western,1983,2
+Western,1984,0
+Western,1985,2
+Western,1986,0
+Western,1987,0
+Western,1988,1
+Western,1989,0
+Western,1990,2
+Western,1991,0
+Western,1992,1
+Western,1993,1
+Western,1994,1
+Western,1995,1
+Western,1996,0
+Western,1997,0
+Western,1998,0
+Western,1999,4
+Western,2000,3
+Western,2001,2
+Western,2002,1
+Western,2003,2
+Western,2004,2
+Western,2005,2
+Western,2006,1
+Western,2007,5
+Western,2008,2
+Western,2009,0
+Western,2010,5
+Western,2011,3
+Western,2012,2
+Western,2013,1
+Western,2014,3
+Western,2015,7
+Western,2016,1
+Western,2017,0
