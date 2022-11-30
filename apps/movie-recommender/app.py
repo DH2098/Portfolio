@@ -11,5 +11,5 @@ app = dash.Dash(
 
 # set app callback exceptions to true
 app.config.suppress_callback_exceptions = True
-
+ 
 app.title = "영화 추천 시스템"

@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
 import plotly.express as px
-
+ 
 df = pd.read_csv("data/df.csv")
 
 genre_df = pd.read_csv("data/genre_df.csv")
