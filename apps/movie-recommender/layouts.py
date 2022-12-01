@@ -8,6 +8,8 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
+os.chdir('C:/workspace/Portfolio/apps/movie-recommender')
+
 app_name = os.getenv("DASH_APP_PATH", "/movie-recommender")
 
 table = pd.read_csv("data/table.csv")
@@ -251,15 +253,7 @@ def Navbar():
                                 }
                             ]
                         },
-                        {
-                            'component': 'Item',
-                            'props': {
-                                'key': 'github',
-                                'title': 'GitHub',
-                                'icon': 'antd-github',
-                                'href': 'https://github.com/DH2098'
-                            },
-                        },
+
                     ],
                     mode='inline'
                 ),
