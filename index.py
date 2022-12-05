@@ -5,6 +5,8 @@ from dash.dependencies import Input, Output
 import feffery_antd_components as fac
 
 from app import app
+server = app.server
+
 from layouts import (
     Navbar,
     main_layout,
