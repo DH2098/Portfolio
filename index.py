@@ -52,3 +52,6 @@ def index():
     return layout
 
 app.layout = index()
+
+if __name__ == "__main__":
+    app.run_server()
