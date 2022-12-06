@@ -338,7 +338,6 @@ main_layout = html.Div(
 
         html.Div([
 
-            html.Img(src=app.get_asset_url('flask-logo.png'), style={'height':'300px', 'width':'300px', 'textAlign': 'center'}),
             html.Img(src=app.get_asset_url('plotly-dash-logo.png'), style={'height':'300px', 'width':'300px', 'textAlign': 'center'}),
 
             html.P('kaggle의 TMDB 5000 Movie Dataset을 기반으로 영화 추천 시스템을 구현했습니다.', className='mt-5')
